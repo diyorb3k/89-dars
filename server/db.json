@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": "5678901",
+      "title": "Dell XPS 13",
+      "description": "A premium ultrabook with a stunning 4K display and powerful performance.",
+      "brand": "Dell",
+      "category": "Laptops",
+      "price": 1299.99,
+      "discountPercentage": 12,
+      "rating": 4.6,
+      "comments": "Sleek design and excellent performance.",
+      "images": [
+        "https://example.com/images/xps13-1.jpg",
+        "https://example.com/images/xps13-2.jpg"
+      ]
+    },
+    {
+      "id": "6789012",
+      "title": "Apple Watch Series 8",
+      "description": "Advanced health and fitness tracking with a sleek design and powerful features.",
+      "brand": "Apple",
+      "category": "Smartwatches",
+      "price": 399.99,
+      "discountPercentage": 7,
+      "rating": 4.7,
+      "comments": "Best smartwatch with excellent health features.",
+      "images": [
+        "https://example.com/images/applewatch8-1.jpg",
+        "https://example.com/images/applewatch8-2.jpg"
+      ]
+    },
+    {
+      "id": "1725428325662",
+      "title": "qweqw",
+      "description": "assfsfa",
+      "brand": "asfqe",
+      "category": "qewr",
+      "price": 123443,
+      "discountPercentage": 1341,
+      "rating": 0,
+      "images": []
+    },
+    {
+      "id": "1725429250204",
+      "title": "asd",
+      "description": "yaxshi",
+      "brand": "Meta",
+      "category": "1",
+      "price": 10,
+      "discountPercentage": 20,
+      "rating": 0,
+      "images": []
+    }
+  ],
+  "users": [
+    {
+      "id": "0124457",
+      "firstName": "Jane",
+      "lastName": "Doe",
+      "email": "janedoe@gmail.com",
+      "username": "janedoe",
+      "password": "jane1234",
+      "phone": "+998941234567"
+    },
+    {
+      "id": "0324457",
+      "firstName": "Jane",
+      "lastName": "Doe",
+      "email": "janedoe@gmail.com",
+      "username": "janedoe",
+      "password": "jane1234",
+      "phone": "+998941234564"
+    }
+  ]
+}
